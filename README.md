@@ -19,6 +19,7 @@ The foundation underneath everything else. Covers why defining data is hard, lab
 How They Fit the Book
 
 The book teaches the mechanics — train/test splits, feature scaling, training a classifier, reading the results. These guides explain the judgment that surrounds those mechanics in production: how to decide what to work on, how to tell whether a model is actually good, and why clean, well-defined data matters more than a clever algorithm. Read the book to build your first model; keep these nearby as you grow toward shipping real ones.
+
 Format
 
 Each guide is a single standalone HTML file with inline styling — portable, printable, and easy to host. No build step, no external assets.
