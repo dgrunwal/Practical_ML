@@ -76,3 +76,5 @@
 - [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html) - Good review of evaluation habits.
 - [Model Persistence](https://scikit-learn.org/stable/model_persistence.html) - Helps tie the training workflow to actual reuse.
 - [Common Pitfalls and Recommended Practices](https://scikit-learn.org/stable/common_pitfalls.html) - Strong closing reference for avoiding beginner mistakes.
+
+- © 2026 David Grunwald. All rights reserved.
