@@ -23,3 +23,5 @@ The book teaches the mechanics — train/test splits, feature scaling, training 
 Format
 
 Each guide is a single standalone HTML file with inline styling — portable, printable, and easy to host. No build step, no external assets.
+
+The data preprocessing guide and linear regression are companion guides for ML completeness.
