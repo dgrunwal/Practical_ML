@@ -24,4 +24,4 @@ Format
 
 Each guide is a single standalone HTML file with inline styling — portable, printable, and easy to host. No build step, no external assets.
 
-The guides on data preprocessing, linear regression, and categorical data encoding are stand alone companion guides for ML completeness.
+The guides on data preprocessing, linear regression, and categorical data encoding/scaling are stand alone companion guides for ML completeness.
