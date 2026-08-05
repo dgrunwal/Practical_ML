@@ -1,4 +1,4 @@
-Book includes ml_demo.py code a workable documented python program demonstrating a real machine learning program.
+Book includes ml_demo.py code a workable documented python program demonstrating a real machine learning program.  Changes to ML functionalities and specific deep dives will be added.  
 
 
 Qwik Guides — Production ML Reference Set
@@ -25,3 +25,5 @@ Format
 Each guide is a single standalone HTML file with inline styling — portable, printable, and easy to host. No build step, no external assets.
 
 Supplemental guides on data preprocessing, linear regression, and categorical data encoding/scaling are stand alone companion guides for ML completeness and can be used as .md files or data sources in other AI applications.
+
+Added Feature Engineering Guides — Consists of 2 documents - a feature engineering training guide and alphabetized glossary with over 200 terms that can be used as a .md file, quiz builder and documentation foundation in any AI project.
