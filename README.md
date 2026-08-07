@@ -26,4 +26,4 @@ Each guide is a single standalone HTML file with inline styling — portable, pr
 
 Supplemental guides on data preprocessing, linear regression, and categorical data encoding/scaling are stand alone companion guides for ML completeness and can be used as .md files or data sources in other AI applications.
 
-Added Feature Engineering Guides — Consists of 2 documents - a feature engineering training guide and alphabetized glossary with over 200 terms that can be used as an .md file, quiz builder and documentation foundation in any AI project.
+Added Feature Engineering Guides — Consists of 2 documents - a feature engineering training guide and alphabetized glossary with over 200 terms that can be used as an .md file, quiz builder and documentation foundation in any AI project.  Overfitting causes and remedies guide also included.
